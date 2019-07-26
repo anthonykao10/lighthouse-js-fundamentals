@@ -10,7 +10,7 @@ sayHello("Ferdinand");
 const sayHelloToConsole  = function (name) {
   console.log("Hello, " + name);
 }
-sayHelloToConsole('J1ohn'); 
+sayHelloToConsole('John'); 
 
 /* return */
 const returnSayHello  = function (name) {
